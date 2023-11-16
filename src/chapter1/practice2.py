@@ -1,0 +1,22 @@
+print("Hello World")
+print('Python is fun')
+print("""Life is too short, You need python""")
+print('''Life is too short, You need python''')
+print('"Python is very easy." he said.')
+print("\"Python is very easy.\" he said.")
+print("Life is too short\nYou need python")
+print('''Life is too short
+You need python2''')
+head = "Python"
+tail = " is fun"
+print(head + tail)
+print(head * 2)
+print(len(head))
+print(head[0])
+print(head[0:3])
+print(head[0:61])
+print(head[2:])
+print(head[:3])
+print("I eat %d apples" % 3)
+print("I ate %d apples. so I was sick %s days." % (10, "two"))
+print("I eat {0} apples".format(4))
